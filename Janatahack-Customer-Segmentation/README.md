@@ -1,5 +1,5 @@
 # Janatahack-Customer-Segmentation
-Rank 2 Public LB Solution
+
 # Problem Statement
 <img src="Utils/PS.png"
      alt="Markdown Monster icon"
@@ -38,8 +38,4 @@ catboost:         $ pip install catboost
 ## Usage
 * Run the code given in ipython notebook `Final.ipynb`
 
-## Contributors
-Team Name: [Figured the Trick!](https://datahack.analyticsvidhya.com/teams/figured-the-trick) \
-[Sai Krithik](https://www.linkedin.com/in/venkata-sai-krithik-6a344a199/) & [Karan Juneja](https://www.linkedin.com/in/karan-juneja32/)
 
-[Link to Leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard)
